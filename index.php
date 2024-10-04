@@ -1,3 +1,9 @@
+<?php
+include 'connect.php';
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -25,8 +31,7 @@ echo $t;
 echo $r;
 echo $s;
 echo "<br>";
-print "<h1>php is fun</h1>";
-print "<h2>i ove php</h2>";
+
 
 
 ?>
